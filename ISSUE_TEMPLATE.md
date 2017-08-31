@@ -1,9 +1,6 @@
 _What version of GWEN are you using?_
  
  
-_What kind of server do you have (`BungeeCord/Single Server`)?_
- 
- 
 _What server version (/version) (use /bungee for BungeeCord) are you using?_
 
 
