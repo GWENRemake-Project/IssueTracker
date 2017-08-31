@@ -1,6 +1,9 @@
 _What version of GWEN are you using?_
  
  
+_Which part(s) of GWEN are you using? (BanWaves, BayMax configs, AAC+AACAdditionPro configs, etc.)
+ 
+ 
 _What server version (/version) (use /bungee for BungeeCord) are you using?_
 
 
