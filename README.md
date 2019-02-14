@@ -1,4 +1,3 @@
-# IssueTracker
-Our issue tracker
+## IssueTracker
 # DO NOT USE
 ### Use https://github.com/josephworks/Gwen-Remade/issues
